@@ -1,0 +1,3 @@
+[submodule "2017-11/ansible"]
+	path = 2017-11/ansible
+	url = git://github.com/sbesson/ome-ansible-training.git
